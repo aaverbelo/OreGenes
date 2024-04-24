@@ -3,16 +3,16 @@
 Application based on the model presented by Verbel et <i>al.</i> (<i>in prep</i>.). Here you can import 
 your geochemical data obtained by LA-ICP-MS on natural gold
  after replacing the data below the limit of detection of the instrument according to Palarea-Albaladejo and Martín-Fernández (2015) in CSV or xlsx format. using the following elements in the mentioned order:
-<ul><li>Ag
- Bi
- Cu
- Fe
- Ni
- Pb
+<ul><li>Pt
  Pd
- Pt
- Sb and Te</li></ul>
-as concentrations in ppm.
+ Te
+ Bi
+ Sb
+ Pb
+ Cu
+ Ni
+ Ag and Fe</li></ul>
+(as concentrations in ppm).
 
 To get started:
 <ul><li>Load the file with the <i>"import data" </i>button
